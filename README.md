@@ -23,10 +23,4 @@ Creates the `chemical_plant_monitoring.db` database.
       - Pollutant emissions
       - Energy consumption
       - Industrial incidents
-  
-## 🧪 How to execute
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/seu-usuario/chemical-plant-monitoring.git
-   cd chemical-plant-monitoring
